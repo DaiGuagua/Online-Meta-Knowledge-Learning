@@ -3,7 +3,7 @@ This is an official repository of the paper Online Meta-Knowledge Learning for H
 
 ## The main result of our paper
 ### Experiments of tracing changes in student knowledge on Synthetic dataset
-
+![image](https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/simulate.pdf)
 ### Students' performance prediction
 
 
