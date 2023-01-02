@@ -12,8 +12,6 @@ The blue line in the figure represents the actual student ability change curve, 
 ### Visualization of student knowledge state at each period
 ![image](https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/09_kt.png)
 ### Visualization of student knowledge increment
-
+![image](https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/incement.png)
 ### Knowledge graph construction
 ![image](https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/knowGra.png)
-
-### 
