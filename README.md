@@ -7,10 +7,10 @@ This is an official repository of the paper Online Meta-Knowledge Learning for H
 ### Students' performance prediction
 <img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/Table1.png"  width="500" height="200">
 <img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/Table2.png"  width="500" height="200">
-<img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/Table3.png"  width="550" height="150">
+<img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/Table3.png"  width="500" height="200">
 ### Visualization of student knowledge state at each period
-<img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/09_kt.png"  width="550" height="150">
+<img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/09_kt.png"  width="500" height="500">
 ### Visualization of student knowledge increment
-<img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/incement.png"  width="550" height="150">
+<img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/incement.png"  width="500" height="500">
 ### Knowledge graph construction
-<img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/knowGra.png"  width="550" height="150">
+<img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/knowGra.png"  width="500" height="500">
