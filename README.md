@@ -21,3 +21,5 @@ The knowledge increment of the first three students in the ASSISTment dataset. D
 
 ### Knowledge graph construction
 <img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/knowGra.png"  width="300" height="300">
+Knowledge Graph on our dataset. We divide the knowledge concepts into ten categories, and it can be seen that the knowledge concepts belonging to the same category
+are more correlated.
