@@ -4,7 +4,7 @@ This is an official repository of the paper Online Meta-Knowledge Learning for H
 ## The main result of our paper
 ### Experiments of tracing changes in student knowledge on Synthetic dataset
 <img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/simulation.png" width="550" height="150"> 
-The blue line in the figure represents the actual student ability change curve, while the orange line represents the change curve of student ability learned by the OMKL algorithm.
+The blue line in the figure represents the actual student ability change curve, while the orange line represents the change curve of student ability learned by the OMDL algorithm.
 
 ### Students' performance prediction
 <img src="https://github.com/DaiGuagua/Online-Meta-Knowledge-Learning/blob/main/image/Table1.png"  width="500" height="200">
