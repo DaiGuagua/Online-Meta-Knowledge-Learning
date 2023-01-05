@@ -1,4 +1,4 @@
-# Online-Meta-Knowledge-Learning
+# Online-Meta-Knowledge-Dictionary-Learning
 This is an official repository of the paper Online Meta-Knowledge Learning for Hidden Markovian Data with Application to Knowledge Tracing
 
 ## The main result of our paper
